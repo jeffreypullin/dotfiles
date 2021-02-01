@@ -2,3 +2,5 @@
 	name = Jeffrey Pullin
 	email = jeffrey.pullin@gmail.com
 
+[pull]
+	rebase = false
